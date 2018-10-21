@@ -1,5 +1,5 @@
 _repo: The-Analects-of-Confucius-from-the-Chinese-Classics_3330
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Legge, James
@@ -39,5 +39,6 @@ subjects:
 - !lcc 'PL'
 - !lcsh 'Philosophy, Chinese'
 - !lcsh 'Ethics -- China'
+- GITenberg
 title: The Analects of Confucius (from the Chinese Classics)
 url: http://www.gutenberg.org/ebooks/3330
